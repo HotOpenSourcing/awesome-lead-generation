@@ -130,6 +130,8 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 
 ## Blogs & Newsletters
 
+- [Lead Generators](https://leadgenerators.substack.com) - Newsletter on lead generation strategy and tactics.
+- [The Marketing Newsletter](https://themarketingnewsletter.org) - Curated marketing newsletter covering growth and lead-gen topics.
 - [HubSpot Blog](https://blog.hubspot.com/marketing) - Broad inbound marketing and lead-gen content.
 - [Sales Hacker](https://www.saleshacker.com/) - Tactical sales and SDR-focused articles.
 - [Cold Email Academy](https://www.coldemail.com/) - Cold outreach deliverability and copywriting tactics.
